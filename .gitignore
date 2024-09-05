@@ -2,11 +2,10 @@
 /dist
 /node_modules
 /build
-/db 
+/db/ 
 /dist
-/.github
-/.devcontainer
-/.github 
+.github/
+.devcontainer/
 
 # Logs
 logs
